@@ -230,7 +230,7 @@ i{
 i::before{
     content: "";
     position: absolute;
-    background-image: url(/img/Rectangle\ 44.svg);
+    background-image: url("../img/Rectangle\ 44.svg");
     background-repeat: no-repeat;
     width: 10px;
     height: 10px;
